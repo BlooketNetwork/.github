@@ -1,8 +1,9 @@
 # BlooketNetwork
 
-[![BlooketNetwork]([https://via.placeholder.com/200x200.png?text=BlooketNetwork](https://cdn.jsdelivr.net/gh/BlooketNetwork/.github@main/profile/blooketnetwork.png
-))](https://blooketnetwork.glitch.me/)
-
+<a href="https://blooketnetwork.glitch.me/">
+  <img src="https://cdn.jsdelivr.net/gh/BlooketNetwork/.github@main/profile/blooketnetwork.png" alt="BlooketNetwork Logo" width="200">
+</a>
+<br>
 Welcome to BlooketNetwork, the organization dedicated to exploring and experimenting with the Blooket platform.
 
 ## About
