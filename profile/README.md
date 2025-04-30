@@ -1,10 +1,9 @@
-# BlooketNetwork
+![blooketnetworktitlebanner](https://github.com/user-attachments/assets/eccf05df-97f5-4d82-87a2-8a579c361a7c)
 
-<a href="https://blooketnetwork.glitch.me/">
-  <img src="https://cdn.jsdelivr.net/gh/BlooketNetwork/.github@main/profile/blooketnetwork.png" alt="BlooketNetwork Logo" width="200">
+<a href="https://blooketnetwork.glitch.me/">  
 </a>
 <br>
-Welcome to BlooketNetwork, the organization dedicated to exploring and experimenting with the Blooket platform.
+The Network dedicated to exploring and experimenting with the Blooket platform.
 
 ## About
 
